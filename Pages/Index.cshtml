@@ -1,0 +1,33 @@
+﻿@page
+@using DarkStore.Components;
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+@*<div class="container">
+    <div class="row g-1">
+    @foreach (var product in Model.Products)
+    {
+        <div class="col-4 col-sm-3">
+            <div class="card" style="width: 300px;">
+
+                <img src="@product.Image" class="card-img-top"/>
+
+                <div class="card-body">
+                    <h5 class="card-title">@product.Title</h5>
+                </div>
+            </div>
+        </div>
+    }
+    </div>
+</div>*@
+
+@(await Html.RenderComponentAsync<ProductList>(RenderMode.ServerPrerendered))
+
+<script src="_framework/blazor.server.js"></script>

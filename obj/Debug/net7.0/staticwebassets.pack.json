@@ -1,0 +1,2701 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Win10\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\DarkStore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DarkStore.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\data\\Products.json",
+      "PackagePath": "staticwebassets\\data\\Products.json"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\.babelrc.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\.babelrc.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\.browserslistrc",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\.browserslistrc"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\.bundlewatch.config.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\.bundlewatch.config.json"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\.editorconfig",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\.editorconfig"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\.eslintignore",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\.eslintignore"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\.eslintrc.json"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\.gitattributes",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\.gitattributes"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\.gitignore",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\.stylelintignore",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\.stylelintignore"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\.stylelintrc",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\.stylelintrc"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\CODE_OF_CONDUCT.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\CODE_OF_CONDUCT.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\README.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\SECURITY.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\SECURITY.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\build\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\build\\.eslintrc.json"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\build\\banner.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\build\\banner.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\build\\build-plugins.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\build\\build-plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\build\\change-version.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\build\\change-version.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\build\\generate-sri.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\build\\generate-sri.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\build\\postcss.config.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\build\\postcss.config.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\build\\rollup.config.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\build\\rollup.config.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\build\\svgo.yml",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\build\\svgo.yml"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\build\\vnu-jar.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\build\\vnu-jar.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\build\\zip-examples.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\build\\zip-examples.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\composer.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\composer.json"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\config.yml",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\config.yml"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\dist\\alert.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\alert.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\dist\\alert.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\alert.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\dist\\base-component.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\base-component.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\dist\\base-component.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\base-component.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\dist\\button.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\button.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\dist\\button.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\button.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\dist\\carousel.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\dist\\carousel.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\carousel.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\dist\\collapse.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\dist\\collapse.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\collapse.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\dist\\dom\\data.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\dom\\data.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\dist\\dom\\data.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\dom\\data.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\dist\\dom\\event-handler.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\dom\\event-handler.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\dist\\dom\\event-handler.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\dom\\event-handler.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\dist\\dom\\manipulator.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\dom\\manipulator.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\dist\\dom\\manipulator.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\dom\\manipulator.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\dist\\dom\\selector-engine.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\dom\\selector-engine.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\dist\\dom\\selector-engine.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\dom\\selector-engine.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\dist\\dropdown.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\dropdown.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\dist\\dropdown.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\dropdown.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\dist\\modal.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\modal.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\dist\\modal.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\modal.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\dist\\offcanvas.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\offcanvas.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\dist\\offcanvas.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\offcanvas.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\dist\\popover.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\popover.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\dist\\popover.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\popover.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\dist\\scrollspy.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\scrollspy.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\dist\\scrollspy.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\scrollspy.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\dist\\tab.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\tab.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\dist\\tab.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\tab.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\dist\\toast.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\toast.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\dist\\toast.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\toast.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\dist\\tooltip.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\dist\\tooltip.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\tooltip.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\index.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\index.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\index.umd.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\index.umd.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\src\\alert.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\src\\alert.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\src\\base-component.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\src\\base-component.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\src\\button.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\src\\button.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\src\\carousel.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\src\\carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\src\\collapse.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\src\\collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\src\\dom\\data.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\src\\dom\\data.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\src\\dom\\event-handler.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\src\\dom\\event-handler.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\src\\dom\\manipulator.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\src\\dom\\manipulator.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\src\\dom\\selector-engine.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\src\\dom\\selector-engine.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\src\\dropdown.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\src\\dropdown.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\src\\modal.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\src\\modal.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\src\\offcanvas.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\src\\offcanvas.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\src\\popover.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\src\\popover.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\src\\scrollspy.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\src\\scrollspy.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\src\\tab.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\src\\tab.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\src\\toast.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\src\\toast.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\src\\tooltip.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\src\\tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\src\\util\\backdrop.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\src\\util\\backdrop.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\src\\util\\index.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\src\\util\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\src\\util\\sanitizer.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\src\\util\\sanitizer.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\src\\util\\scrollbar.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\src\\util\\scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\tests\\README.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\tests\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\tests\\browsers.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\tests\\browsers.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\tests\\helpers\\fixture.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\tests\\helpers\\fixture.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\tests\\integration\\bundle-modularity.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\tests\\integration\\bundle-modularity.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\tests\\integration\\bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\tests\\integration\\bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\tests\\integration\\index.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\tests\\integration\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\tests\\integration\\rollup.bundle-modularity.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\tests\\integration\\rollup.bundle-modularity.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\tests\\integration\\rollup.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\tests\\integration\\rollup.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\tests\\karma.conf.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\tests\\karma.conf.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\tests\\unit\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\tests\\unit\\.eslintrc.json"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\tests\\unit\\alert.spec.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\tests\\unit\\alert.spec.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\tests\\unit\\base-component.spec.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\tests\\unit\\base-component.spec.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\tests\\unit\\button.spec.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\tests\\unit\\button.spec.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\tests\\unit\\carousel.spec.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\tests\\unit\\carousel.spec.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\tests\\unit\\collapse.spec.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\tests\\unit\\collapse.spec.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\tests\\unit\\dom\\data.spec.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\tests\\unit\\dom\\data.spec.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\tests\\unit\\dom\\event-handler.spec.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\tests\\unit\\dom\\event-handler.spec.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\tests\\unit\\dom\\manipulator.spec.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\tests\\unit\\dom\\manipulator.spec.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\tests\\unit\\dom\\selector-engine.spec.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\tests\\unit\\dom\\selector-engine.spec.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\tests\\unit\\dropdown.spec.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\tests\\unit\\dropdown.spec.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\tests\\unit\\jquery.spec.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\tests\\unit\\jquery.spec.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\tests\\unit\\modal.spec.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\tests\\unit\\modal.spec.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\tests\\unit\\offcanvas.spec.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\tests\\unit\\offcanvas.spec.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\tests\\unit\\popover.spec.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\tests\\unit\\popover.spec.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\tests\\unit\\scrollspy.spec.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\tests\\unit\\scrollspy.spec.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\tests\\unit\\tab.spec.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\tests\\unit\\tab.spec.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\tests\\unit\\toast.spec.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\tests\\unit\\toast.spec.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\tests\\unit\\tooltip.spec.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\tests\\unit\\tooltip.spec.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\tests\\unit\\util\\backdrop.spec.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\tests\\unit\\util\\backdrop.spec.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\tests\\unit\\util\\index.spec.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\tests\\unit\\util\\index.spec.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\tests\\unit\\util\\sanitizer.spec.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\tests\\unit\\util\\sanitizer.spec.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\tests\\unit\\util\\scrollbar.spec.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\tests\\unit\\util\\scrollbar.spec.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\tests\\visual\\alert.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\tests\\visual\\alert.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\tests\\visual\\button.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\tests\\visual\\button.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\tests\\visual\\carousel.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\tests\\visual\\carousel.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\tests\\visual\\collapse.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\tests\\visual\\collapse.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\tests\\visual\\dropdown.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\tests\\visual\\dropdown.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\tests\\visual\\modal.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\tests\\visual\\modal.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\tests\\visual\\popover.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\tests\\visual\\popover.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\tests\\visual\\scrollspy.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\tests\\visual\\scrollspy.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\tests\\visual\\tab.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\tests\\visual\\tab.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\tests\\visual\\toast.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\tests\\visual\\toast.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\js\\tests\\visual\\tooltip.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\tests\\visual\\tooltip.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\nuget\\MyGet.ps1",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\nuget\\MyGet.ps1"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\nuget\\bootstrap.nuspec",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\nuget\\bootstrap.nuspec"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\nuget\\bootstrap.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\nuget\\bootstrap.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\nuget\\bootstrap.sass.nuspec",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\nuget\\bootstrap.sass.nuspec"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\package-lock.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\package.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\package.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\package.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\.eslintrc.json"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\assets\\js\\application.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\assets\\js\\application.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\assets\\js\\search.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\assets\\js\\search.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\assets\\js\\vendor\\anchor.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\assets\\js\\vendor\\anchor.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\assets\\js\\vendor\\clipboard.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\assets\\js\\vendor\\clipboard.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\assets\\scss\\_ads.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\assets\\scss\\_ads.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\assets\\scss\\_algolia.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\assets\\scss\\_algolia.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\assets\\scss\\_anchor.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\assets\\scss\\_anchor.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\assets\\scss\\_brand.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\assets\\scss\\_brand.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\assets\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\assets\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\assets\\scss\\_callouts.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\assets\\scss\\_callouts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\assets\\scss\\_clipboard-js.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\assets\\scss\\_clipboard-js.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\assets\\scss\\_colors.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\assets\\scss\\_colors.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\assets\\scss\\_component-examples.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\assets\\scss\\_component-examples.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\assets\\scss\\_content.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\assets\\scss\\_content.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\assets\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\assets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\assets\\scss\\_layout.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\assets\\scss\\_layout.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\assets\\scss\\_masthead.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\assets\\scss\\_masthead.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\assets\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\assets\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\assets\\scss\\_placeholder-img.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\assets\\scss\\_placeholder-img.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\assets\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\assets\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\assets\\scss\\_skippy.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\assets\\scss\\_skippy.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\assets\\scss\\_subnav.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\assets\\scss\\_subnav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\assets\\scss\\_syntax.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\assets\\scss\\_syntax.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\assets\\scss\\_toc.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\assets\\scss\\_toc.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\assets\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\assets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\assets\\scss\\docs.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\assets\\scss\\docs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\404.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\404.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\_index.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\_index.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\about\\brand.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\about\\brand.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\about\\license.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\about\\license.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\about\\overview.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\about\\overview.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\about\\team.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\about\\team.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\about\\translations.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\about\\translations.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\components\\accordion.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\components\\accordion.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\components\\alerts.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\components\\alerts.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\components\\badge.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\components\\badge.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\components\\breadcrumb.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\components\\breadcrumb.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\components\\button-group.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\components\\button-group.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\components\\buttons.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\components\\buttons.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\components\\card.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\components\\card.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\components\\carousel.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\components\\carousel.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\components\\close-button.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\components\\close-button.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\components\\collapse.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\components\\collapse.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\components\\dropdowns.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\components\\dropdowns.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\components\\list-group.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\components\\list-group.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\components\\modal.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\components\\modal.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\components\\navbar.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\components\\navbar.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\components\\navs-tabs.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\components\\navs-tabs.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\components\\offcanvas.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\components\\offcanvas.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\components\\pagination.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\components\\pagination.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\components\\popovers.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\components\\popovers.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\components\\progress.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\components\\progress.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\components\\scrollspy.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\components\\scrollspy.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\components\\spinners.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\components\\spinners.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\components\\toasts.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\components\\toasts.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\components\\tooltips.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\components\\tooltips.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\content\\figures.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\content\\figures.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\content\\images.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\content\\images.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\content\\reboot.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\content\\reboot.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\content\\tables.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\content\\tables.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\content\\typography.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\content\\typography.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\customize\\color.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\customize\\color.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\customize\\components.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\customize\\components.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\customize\\css-variables.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\customize\\css-variables.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\customize\\optimize.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\customize\\optimize.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\customize\\options.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\customize\\options.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\customize\\overview.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\customize\\overview.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\customize\\sass.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\customize\\sass.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\.stylelintrc",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\.stylelintrc"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\_index.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\_index.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\album-rtl\\index.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\album-rtl\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\album\\index.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\album\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\blog-rtl\\index.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\blog-rtl\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\blog\\blog.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\blog\\blog.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\blog\\blog.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\blog\\blog.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\blog\\index.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\blog\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\carousel-rtl\\index.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\carousel-rtl\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\carousel\\carousel.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\carousel\\carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\carousel\\carousel.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\carousel\\carousel.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\carousel\\index.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\carousel\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\cheatsheet-rtl\\index.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\cheatsheet-rtl\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\cheatsheet\\cheatsheet.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\cheatsheet\\cheatsheet.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\cheatsheet\\cheatsheet.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\cheatsheet\\cheatsheet.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\cheatsheet\\cheatsheet.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\cheatsheet\\cheatsheet.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\cheatsheet\\index.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\cheatsheet\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\checkout-rtl\\index.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\checkout-rtl\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\checkout\\form-validation.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\checkout\\form-validation.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\checkout\\form-validation.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\checkout\\form-validation.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\checkout\\index.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\checkout\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\cover\\cover.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\cover\\cover.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\cover\\index.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\cover\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\dashboard-rtl\\dashboard.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\dashboard-rtl\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\dashboard-rtl\\index.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\dashboard-rtl\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\dashboard\\dashboard.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\dashboard\\dashboard.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\dashboard\\dashboard.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\dashboard\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\dashboard\\dashboard.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\dashboard\\dashboard.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\dashboard\\index.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\dashboard\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\features\\features.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\features\\features.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\features\\index.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\features\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\features\\unsplash-photo-1.jpg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\features\\unsplash-photo-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\features\\unsplash-photo-2.jpg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\features\\unsplash-photo-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\features\\unsplash-photo-3.jpg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\features\\unsplash-photo-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\grid\\grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\grid\\grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\grid\\index.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\grid\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\headers\\headers.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\headers\\headers.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\headers\\index.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\headers\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\heroes\\bootstrap-docs.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\heroes\\bootstrap-docs.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\heroes\\bootstrap-themes.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\heroes\\bootstrap-themes.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\heroes\\heroes.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\heroes\\heroes.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\heroes\\index.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\heroes\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\jumbotron\\index.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\jumbotron\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\masonry\\index.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\masonry\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\navbar-bottom\\index.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\navbar-bottom\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\navbar-fixed\\index.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\navbar-fixed\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\navbar-fixed\\navbar-top-fixed.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\navbar-fixed\\navbar-top-fixed.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\navbar-static\\index.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\navbar-static\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\navbar-static\\navbar-top.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\navbar-static\\navbar-top.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\navbars\\index.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\navbars\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\navbars\\navbar.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\navbars\\navbar.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\offcanvas-navbar\\index.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\offcanvas-navbar\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\offcanvas-navbar\\offcanvas.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\offcanvas-navbar\\offcanvas.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\offcanvas-navbar\\offcanvas.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\offcanvas-navbar\\offcanvas.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\pricing\\index.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\pricing\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\pricing\\pricing.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\pricing\\pricing.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\product\\index.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\product\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\product\\product.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\product\\product.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\sidebars\\index.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\sidebars\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\sidebars\\sidebars.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\sidebars\\sidebars.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\sidebars\\sidebars.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\sidebars\\sidebars.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\sign-in\\index.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\sign-in\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\sign-in\\signin.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\sign-in\\signin.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\starter-template\\index.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\starter-template\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\starter-template\\starter-template.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\starter-template\\starter-template.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\sticky-footer-navbar\\index.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\sticky-footer-navbar\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\sticky-footer-navbar\\sticky-footer-navbar.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\sticky-footer-navbar\\sticky-footer-navbar.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\sticky-footer\\index.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\sticky-footer\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\sticky-footer\\sticky-footer.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\examples\\sticky-footer\\sticky-footer.css"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\extend\\approach.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\extend\\approach.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\extend\\icons.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\extend\\icons.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\forms\\checks-radios.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\forms\\checks-radios.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\forms\\floating-labels.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\forms\\floating-labels.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\forms\\form-control.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\forms\\form-control.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\forms\\input-group.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\forms\\input-group.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\forms\\layout.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\forms\\layout.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\forms\\overview.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\forms\\overview.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\forms\\range.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\forms\\range.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\forms\\select.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\forms\\select.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\forms\\validation.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\forms\\validation.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\getting-started\\accessibility.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\getting-started\\accessibility.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\getting-started\\best-practices.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\getting-started\\best-practices.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\getting-started\\browsers-devices.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\getting-started\\browsers-devices.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\getting-started\\build-tools.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\getting-started\\build-tools.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\getting-started\\contents.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\getting-started\\contents.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\getting-started\\download.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\getting-started\\download.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\getting-started\\introduction.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\getting-started\\introduction.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\getting-started\\javascript.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\getting-started\\javascript.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\getting-started\\parcel.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\getting-started\\parcel.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\getting-started\\rfs.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\getting-started\\rfs.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\getting-started\\rtl.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\getting-started\\rtl.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\getting-started\\webpack.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\getting-started\\webpack.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\helpers\\clearfix.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\helpers\\clearfix.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\helpers\\colored-links.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\helpers\\colored-links.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\helpers\\position.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\helpers\\position.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\helpers\\ratio.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\helpers\\ratio.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\helpers\\stretched-link.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\helpers\\stretched-link.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\helpers\\text-truncation.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\helpers\\text-truncation.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\helpers\\visually-hidden.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\helpers\\visually-hidden.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\layout\\breakpoints.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\layout\\breakpoints.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\layout\\columns.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\layout\\columns.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\layout\\containers.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\layout\\containers.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\layout\\grid.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\layout\\grid.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\layout\\gutters.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\layout\\gutters.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\layout\\utilities.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\layout\\utilities.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\layout\\z-index.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\layout\\z-index.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\migration.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\migration.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\utilities\\api.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\utilities\\api.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\utilities\\background.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\utilities\\background.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\utilities\\borders.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\utilities\\borders.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\utilities\\colors.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\utilities\\colors.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\utilities\\display.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\utilities\\display.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\utilities\\flex.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\utilities\\flex.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\utilities\\float.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\utilities\\float.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\utilities\\interactions.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\utilities\\interactions.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\utilities\\overflow.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\utilities\\overflow.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\utilities\\position.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\utilities\\position.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\utilities\\shadows.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\utilities\\shadows.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\utilities\\sizing.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\utilities\\sizing.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\utilities\\spacing.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\utilities\\spacing.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\utilities\\text.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\utilities\\text.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\utilities\\vertical-align.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\utilities\\vertical-align.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\5.0\\utilities\\visibility.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\5.0\\utilities\\visibility.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\_index.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\_index.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\content\\docs\\versions.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\content\\docs\\versions.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\data\\breakpoints.yml",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\data\\breakpoints.yml"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\data\\colors.yml",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\data\\colors.yml"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\data\\core-team.yml",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\data\\core-team.yml"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\data\\docs-versions.yml",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\data\\docs-versions.yml"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\data\\examples.yml",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\data\\examples.yml"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\data\\grays.yml",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\data\\grays.yml"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\data\\icons.yml",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\data\\icons.yml"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\data\\sidebar.yml",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\data\\sidebar.yml"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\data\\theme-colors.yml",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\data\\theme-colors.yml"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\data\\translations.yml",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\data\\translations.yml"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\_default\\404.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\_default\\404.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\_default\\baseof.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\_default\\baseof.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\_default\\docs.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\_default\\docs.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\_default\\examples.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\_default\\examples.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\_default\\home.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\_default\\home.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\_default\\redirect.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\_default\\redirect.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\_default\\single.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\_default\\single.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\alias.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\alias.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\partials\\ads.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\partials\\ads.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\partials\\analytics.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\partials\\analytics.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\partials\\callout-danger-async-methods.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\partials\\callout-danger-async-methods.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\partials\\callout-info-mediaqueries-breakpoints.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\partials\\callout-info-mediaqueries-breakpoints.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\partials\\callout-info-npm-starter.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\partials\\callout-info-npm-starter.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\partials\\callout-info-prefersreducedmotion.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\partials\\callout-info-prefersreducedmotion.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\partials\\callout-info-sanitizer.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\partials\\callout-info-sanitizer.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\partials\\callout-warning-color-assistive-technologies.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\partials\\callout-warning-color-assistive-technologies.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\partials\\callout-warning-input-support.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\partials\\callout-warning-input-support.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\partials\\docs-navbar.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\partials\\docs-navbar.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\partials\\docs-sidebar.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\partials\\docs-sidebar.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\partials\\docs-subnav.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\partials\\docs-subnav.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\partials\\docs-versions.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\partials\\docs-versions.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\partials\\favicons.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\partials\\favicons.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\partials\\footer.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\partials\\footer.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\partials\\header.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\partials\\header.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\partials\\home\\masthead-followup.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\partials\\home\\masthead-followup.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\partials\\home\\masthead.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\partials\\home\\masthead.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\partials\\icons\\bootstrap-logo-solid.svg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\partials\\icons\\bootstrap-logo-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\partials\\icons\\bootstrap-white-fill.svg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\partials\\icons\\bootstrap-white-fill.svg"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\partials\\icons\\bootstrap.svg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\partials\\icons\\bootstrap.svg"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\partials\\icons\\circle-square.svg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\partials\\icons\\circle-square.svg"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\partials\\icons\\cloud-fill.svg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\partials\\icons\\cloud-fill.svg"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\partials\\icons\\code.svg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\partials\\icons\\code.svg"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\partials\\icons\\collapse.svg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\partials\\icons\\collapse.svg"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\partials\\icons\\droplet-fill.svg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\partials\\icons\\droplet-fill.svg"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\partials\\icons\\expand.svg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\partials\\icons\\expand.svg"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\partials\\icons\\github.svg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\partials\\icons\\github.svg"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\partials\\icons\\hamburger.svg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\partials\\icons\\hamburger.svg"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\partials\\icons\\homepage-hero.svg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\partials\\icons\\homepage-hero.svg"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\partials\\icons\\list.svg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\partials\\icons\\list.svg"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\partials\\icons\\menu.svg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\partials\\icons\\menu.svg"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\partials\\icons\\opencollective.svg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\partials\\icons\\opencollective.svg"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\partials\\icons\\slack.svg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\partials\\icons\\slack.svg"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\partials\\icons\\twitter.svg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\partials\\icons\\twitter.svg"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\partials\\redirect.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\partials\\redirect.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\partials\\scripts.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\partials\\scripts.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\partials\\skippy.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\partials\\skippy.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\partials\\social.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\partials\\social.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\partials\\stylesheet.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\partials\\stylesheet.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\partials\\table-content.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\partials\\table-content.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\robots.txt",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\robots.txt"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\shortcodes\\bs-table.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\shortcodes\\bs-table.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\shortcodes\\callout.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\shortcodes\\callout.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\shortcodes\\docsref.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\shortcodes\\docsref.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\shortcodes\\example.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\shortcodes\\example.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\shortcodes\\markdown.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\shortcodes\\markdown.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\shortcodes\\param.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\shortcodes\\param.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\shortcodes\\partial.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\shortcodes\\partial.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\shortcodes\\placeholder.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\shortcodes\\placeholder.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\shortcodes\\scss-docs.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\shortcodes\\scss-docs.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\shortcodes\\table.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\shortcodes\\table.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\shortcodes\\year.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\shortcodes\\year.html"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\layouts\\sitemap.xml",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\layouts\\sitemap.xml"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\CNAME",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\brand\\bootstrap-logo-black.svg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\brand\\bootstrap-logo-black.svg"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\brand\\bootstrap-logo-shadow.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\brand\\bootstrap-logo-shadow.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\brand\\bootstrap-logo-white.svg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\brand\\bootstrap-logo-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\brand\\bootstrap-logo.svg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\brand\\bootstrap-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\brand\\bootstrap-social-logo.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\brand\\bootstrap-social-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\brand\\bootstrap-social.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\brand\\bootstrap-social.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\bootstrap-icons.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\bootstrap-icons.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\bootstrap-icons@2x.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\bootstrap-icons@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\bootstrap-themes-collage.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\bootstrap-themes-collage.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\bootstrap-themes-collage@2x.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\bootstrap-themes-collage@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\bootstrap-themes.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\bootstrap-themes.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\bootstrap-themes@2x.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\bootstrap-themes@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\album-rtl.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\album-rtl.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\album-rtl@2x.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\album-rtl@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\album.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\album.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\album@2x.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\album@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\blog-rtl.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\blog-rtl.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\blog-rtl@2x.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\blog-rtl@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\blog.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\blog.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\blog@2x.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\blog@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\carousel-rtl.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\carousel-rtl.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\carousel-rtl@2x.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\carousel-rtl@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\carousel.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\carousel.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\carousel@2x.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\carousel@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\cheatsheet-rtl.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\cheatsheet-rtl.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\cheatsheet-rtl@2x.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\cheatsheet-rtl@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\cheatsheet.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\cheatsheet.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\cheatsheet@2x.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\cheatsheet@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\checkout-rtl.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\checkout-rtl.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\checkout-rtl@2x.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\checkout-rtl@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\checkout.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\checkout.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\checkout@2x.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\checkout@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\cover.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\cover.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\cover@2x.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\cover@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\dashboard-rtl.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\dashboard-rtl.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\dashboard-rtl@2x.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\dashboard-rtl@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\dashboard.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\dashboard.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\dashboard@2x.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\dashboard@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\features.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\features.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\features@2x.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\features@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\grid.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\grid.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\grid@2x.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\grid@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\headers.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\headers.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\headers@2x.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\headers@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\heroes.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\heroes.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\heroes@2x.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\heroes@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\jumbotron.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\jumbotron.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\jumbotron@2x.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\jumbotron@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\masonry.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\masonry.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\masonry@2x.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\masonry@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\navbar-bottom.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\navbar-bottom.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\navbar-bottom@2x.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\navbar-bottom@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\navbar-fixed.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\navbar-fixed.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\navbar-fixed@2x.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\navbar-fixed@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\navbar-static.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\navbar-static.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\navbar-static@2x.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\navbar-static@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\navbars.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\navbars.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\navbars@2x.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\navbars@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\offcanvas-navbar.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\offcanvas-navbar.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\offcanvas-navbar@2x.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\offcanvas-navbar@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\pricing.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\pricing.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\pricing@2x.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\pricing@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\product.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\product.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\product@2x.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\product@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\sidebars.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\sidebars.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\sidebars@2x.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\sidebars@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\sign-in.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\sign-in.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\sign-in@2x.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\sign-in@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\starter-template.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\starter-template.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\starter-template@2x.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\starter-template@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\sticky-footer-navbar.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\sticky-footer-navbar.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\sticky-footer-navbar@2x.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\sticky-footer-navbar@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\sticky-footer.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\sticky-footer.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\sticky-footer@2x.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\examples\\sticky-footer@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\favicons\\android-chrome-192x192.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\favicons\\android-chrome-192x192.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\favicons\\android-chrome-512x512.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\favicons\\android-chrome-512x512.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\favicons\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\favicons\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\favicons\\favicon-16x16.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\favicons\\favicon-16x16.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\favicons\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\favicons\\favicon-32x32.png"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\favicons\\favicon.ico",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\favicons\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\favicons\\manifest.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\favicons\\manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\favicons\\safari-pinned-tab.svg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\img\\favicons\\safari-pinned-tab.svg"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\js\\validate-forms.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\docs\\5.0\\assets\\js\\validate-forms.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\bootstrap\\site\\static\\sw.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\site\\static\\sw.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.DarkStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.DarkStore.props",
+      "PackagePath": "build\\DarkStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.DarkStore.props",
+      "PackagePath": "buildMultiTargeting\\DarkStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.DarkStore.props",
+      "PackagePath": "buildTransitive\\DarkStore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

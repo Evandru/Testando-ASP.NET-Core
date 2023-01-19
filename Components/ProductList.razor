@@ -1,0 +1,39 @@
+﻿@using Microsoft.AspNetCore.Components.Web
+@using DarkStore.Models
+@using DarkStore.Services
+@inject JsonFileProductService ProductService
+
+<div class="container">
+    <div class="row g-1">
+        @foreach (var product in ProductService.GetProducts())
+        {
+            <div class="col-4 col-sm-3">
+                <div class="card" style="width: 300px;">
+
+                    <img src="@product.Image" class="card-img-top"/>
+
+                    <div class="card-body">
+                        <h5 class="card-title">@product.Title</h5>
+                    </div>
+                </div>
+            </div>
+            <div class="card-footer">
+                <small class="text-muted">
+                    <button @onclick="(e => SelectProduct(product.Id))"
+                        data-toggle="modal" data-target="#productModal" class="btn btn-primary">More Info</button>
+                </small>
+            </div>
+        }
+    </div>
+</div>
+
+@code {
+    Product selectProduct;
+    string selectProductId;
+
+    void SelectProduct(string productId)
+    {
+        selectProductId = productId;
+        selectProduct = ProductService.GetProducts().First(x => x.Id == productId);
+    }
+}

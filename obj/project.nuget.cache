@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0At7D5WCGrEkG17DHPmfwtilzkLQsGVbeE/ENQAR9uJBevPt0OdNzsB35F8tfIxkWMCpreCN3dFsDI0vrVfMlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Win10\\Desktop\\estudando\\C#\\DarkStore\\DarkStore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Win10\\.nuget\\packages\\bootstrap\\5.2.3\\bootstrap.5.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
